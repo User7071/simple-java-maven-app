@@ -2,7 +2,7 @@
 
 
 
-![example workflow](https://github.com/User7071/simple-java-maven-app/actions/workflows/Create-jar-file.yml/badge.svg)
+![example workflow](https://github.com/User7071/simple-java-maven-app/actions/workflows/Create-jar-file.yml/badge.svg?branch=master)
 
 
 This repository is for the
