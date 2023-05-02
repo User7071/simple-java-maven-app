@@ -29,7 +29,7 @@ jobs:
     - name: Step 2 - Build with Maven
       run: |
         mvn -B package --file pom.xml
-        mkdir my_package && cp target/*.jar me_package
+        mkdir my_package && cp target/*.jar my_package
     
     - name: Step 3 - Setup a cache for Maven
       uses: actions/cache@v2
